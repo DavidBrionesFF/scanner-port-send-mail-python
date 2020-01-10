@@ -1,0 +1,5 @@
+﻿¡Bienvenido a {{bytepl.application.name}} Sr. {{bytepl.application.until-client}}!
+
+El escaneo de puertos se acaba de arrancar la fecha {{date}}
+
+Se hizo un escaneo desde el puerto {{bytepl.scan.port-start}} hasta {{bytepl.scan.port-end}} y el puerto {{port}} se encuentra abierto
